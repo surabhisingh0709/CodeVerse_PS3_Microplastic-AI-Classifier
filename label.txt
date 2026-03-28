@@ -1,0 +1,4 @@
+0 fibre
+1 film
+2 fragment
+3 pellet
